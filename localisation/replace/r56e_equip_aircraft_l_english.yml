@@ -8056,3 +8056,24 @@ JAP_jet_strat_bomber_equipment_1:0 "Kawanishi K-200"
  # TUR_tac_bomber_equipment_2_short:0 "THK Baltimore"
  # TUR_tac_bomber_equipment_3:0 "THK Invader"
  # TUR_tac_bomber_equipment_3_short:0 "THK Invader"
+
+ ###--->  URG  <><> <><> <><>
+
+ URG_fighter_equipment_0:0 "SPAD S.XIII"
+ URG_fighter_equipment_0_short:0 "S.XIII"
+ URG_fighter_equipment_1:0 "Nieuport 27"
+ URG_fighter_equipment_1_short:0 "Nieuport 27"
+ URG_fighter_equipment_2:0 "North American P-51 Mustang"
+ URG_fighter_equipment_2_short:0 "P-51 Mustang"
+
+ URG_CAS_equipment_1:0 "Potez 25"
+ URG_CAS_equipment_1_short:0 "Potez 25"
+
+ URG_transport_plane_equipment_1:0 "Douglas C-47 Skytrain"
+ URG_transport_plane_equipment_1_short:0 "C-47 Skytrain"  
+
+ URG_cv_fighter_equipment_2:0 "Grumman F6F Hellcat"
+ URG_cv_fighter_equipment_2_short:0 "F6F Hellcat"
+
+ URG_scout_plane_equipment_1:0 "IMAM Ro.37-bis"
+ URG_scout_plane_equipment_1_short:0 "Ro.37-bis" 
