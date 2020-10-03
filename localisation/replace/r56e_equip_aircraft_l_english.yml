@@ -8077,3 +8077,25 @@ JAP_jet_strat_bomber_equipment_1:0 "Kawanishi K-200"
 
  URG_scout_plane_equipment_1:0 "IMAM Ro.37-bis"
  URG_scout_plane_equipment_1_short:0 "Ro.37-bis" 
+
+ ###--->  PAR  <><> <><> <><>
+
+ PAR_CAS_equipment_1:0 "Potez 25"
+ PAR_CAS_equipment_1_short:0 "Potez 25"
+ PAR_CAS_equipment_2:0 "Caproni Ca.309 Ghibli"
+ PAR_CAS_equipment_2_short:0 "Ca.309 Ghibli"
+ 
+ PAR_tac_bomber_equipment_0:0 "Ansaldo SVA-5"
+ PAR_tac_bomber_equipment_0_short:0 "SVA-5" 
+
+ PAR_fighter_equipment_0:0 "Wilbault 73 C.1"
+ PAR_fighter_equipment_0_short:0 "Wilbault 73 C.1"
+ PAR_fighter_equipment_1:0 "Fiat CR.20bis"
+ PAR_fighter_equipment_1_short:0 "CR.20bis"
+ PAR_fighter_equipment_2:0 "Fiat CR.30B" 
+ PAR_fighter_equipment_2_short:0 "CR.30B" 
+ PAR_fighter_equipment_3:0 "Caproni AP.1" 
+ PAR_fighter_equipment_3_short:0 "AP.1"
+
+ PAR_transport_plane_equipment_1:0 "de Havilland D.H.60G Gipsy Moth"
+ PAR_transport_plane_equipment_1_short:0 "D.H.60G Gipsy Moth"   
