@@ -104,7 +104,7 @@ create_field_marshal = {
 
 create_corps_commander = {
 	name = "Luis Irrazábal"
-	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+	portrait_path = "gfx/leaders/PAR/r56_portrait_PAR_Luis_Irrazabal.dds"
 	traits = { trickster war_hero commando }
 	skill = 3
     attack_skill = 3
